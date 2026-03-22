@@ -69,4 +69,4 @@ Este projeto foi desenvolvido em colaboração com:
 
 ## 🔗 Repositório
 
-[![GitHub](https://img.shields.io/badge/Acessar%20Repositório-06B6D4?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/Acessar%20Repositório-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ldvk-bf/cerbero)
