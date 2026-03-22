@@ -1,7 +1,6 @@
 # Kairos
 
 ![Status](https://img.shields.io/badge/status-concluído-06B6D4?style=for-the-badge)
-![Swift](https://img.shields.io/badge/Swift-5-orange?style=for-the-badge&logo=swift)
 ![UI](https://img.shields.io/badge/UI-SwiftUI-06B6D4?style=for-the-badge&logo=apple)
 ![MusicKit](https://img.shields.io/badge/MusicKit-iOS-06B6D4?style=for-the-badge&logo=apple)
 ![Database](https://img.shields.io/badge/Database-SwiftData-06B6D4?style=for-the-badge)
