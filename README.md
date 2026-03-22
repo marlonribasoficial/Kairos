@@ -18,17 +18,21 @@ A proposta do app é transformar experiências cotidianas em registros significa
 
 ## ✨ Features
 
-- 🗓️ **Memórias semanais**  
-  Registre momentos da sua semana com fotos e músicas, criando uma narrativa pessoal contínua  
+### 📅 Memórias Semanais
+- Registre momentos da sua semana com fotos e músicas  
+- Associe trilhas sonoras às suas experiências
 
-- 🎨 **Colagens personalizadas**  
-  Transforme suas memórias em colagens visuais com stickers e elementos customizáveis  
+### 🎨 Colagens
+- Crie colagens personalizadas a partir das memórias da semana  
+- Utilize stickers para enriquecer a composição visual
 
-- 🗂️ **Histórico organizado**  
-  Acesse todas as suas memórias estruturadas por mês e ano  
+### 🗂️ Histórico
+- Acesse todas as suas memórias em um único lugar  
+- Navegue por organização mensal e anual
 
-- ⏳ **Cápsulas do tempo**  
-  Crie cápsulas com memórias da semana atual para revisitar no futuro  
+### ⏳ Cápsula do Tempo
+- Crie cápsulas do tempo com memórias da semana atual  
+- Preserve momentos para revisitar no futuro
 
 ---
 
